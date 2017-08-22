@@ -1,6 +1,6 @@
 {
   "name": "react-native-authorization",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Request user permissions from React Native, iOS + Android",
   "main": "index.js",
   "scripts": {
