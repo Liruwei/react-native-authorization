@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

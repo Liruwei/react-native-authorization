@@ -1,0 +1,22 @@
+{
+  "name": "react-native-authorization",
+  "version": "1.0.0",
+  "description": "Request user permissions from React Native, iOS + Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liruwei/react-native-authorization.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Liruwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liruwei/react-native-authorization/issues"
+  },
+  "homepage": "https://github.com/Liruwei/react-native-authorization#readme"
+}

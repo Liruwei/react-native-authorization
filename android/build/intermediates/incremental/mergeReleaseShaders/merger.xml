@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/liruwei/Documents/code/demo/react_native_packages/android/permissionhelper/src/release/shaders"/></dataSet></merger>
