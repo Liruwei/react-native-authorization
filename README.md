@@ -1,5 +1,10 @@
 # react-native-authorization [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)](#)[![Platform](https://img.shields.io/badge/platform-ios_android-brightgreen.svg?style=flat)](#)[![npm](https://img.shields.io/npm/v/react-native-quicklook.svg)](https://www.npmjs.com/package/react-native-authorization)
 
+Request user permissions from React Native, iOS + Android
+
+> * iOS: need add authorization’s key in **info.plist**
+> * android: need add permission in **AndroidManifest.xml**
+
 ## Content
 * [Installation](#1)
 * [Usage](#3)
