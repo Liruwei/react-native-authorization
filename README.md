@@ -1,5 +1,4 @@
 ## react-native-authorization
 
-1. ***
-2. ***
-3. ***
+1. XXX
+2. XXX
